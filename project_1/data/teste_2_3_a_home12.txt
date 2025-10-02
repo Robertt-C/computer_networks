@@ -1,0 +1,60 @@
+Connecting to host 10.0.11.20, port 5201
+Reverse mode, remote host 10.0.11.20 is sending
+[  5] local 10.0.5.21 port 55120 connected to 10.0.11.20 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.20 MBytes  10.0 Mbits/sec                  
+[  5]   1.00-2.00   sec  1.14 MBytes  9.57 Mbits/sec                  
+[  5]   2.00-3.00   sec  1.14 MBytes  9.57 Mbits/sec                  
+[  5]   3.00-4.00   sec  1.14 MBytes  9.56 Mbits/sec                  
+[  5]   4.00-5.00   sec  1.14 MBytes  9.57 Mbits/sec                  
+[  5]   5.00-6.00   sec  1.14 MBytes  9.56 Mbits/sec                  
+[  5]   6.00-7.00   sec  1.14 MBytes  9.57 Mbits/sec                  
+[  5]   7.00-8.00   sec  1.14 MBytes  9.57 Mbits/sec                  
+[  5]   8.00-9.00   sec  1.14 MBytes  9.57 Mbits/sec                  
+[  5]   9.00-10.00  sec  1.14 MBytes  9.56 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.05  sec  13.8 MBytes  11.5 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  11.5 MBytes  9.61 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.0.11.20, port 5201
+Reverse mode, remote host 10.0.11.20 is sending
+[  5] local 10.0.5.21 port 33290 connected to 10.0.11.20 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   365 KBytes  2.99 Mbits/sec                  
+[  5]   1.00-2.00   sec   327 KBytes  2.68 Mbits/sec                  
+[  5]   2.00-3.00   sec   366 KBytes  3.00 Mbits/sec                  
+[  5]   3.00-4.00   sec   379 KBytes  3.10 Mbits/sec                  
+[  5]   4.00-5.00   sec   346 KBytes  2.84 Mbits/sec                  
+[  5]   5.00-6.00   sec   329 KBytes  2.70 Mbits/sec                  
+[  5]   6.00-7.00   sec   396 KBytes  3.24 Mbits/sec                  
+[  5]   7.00-8.00   sec   440 KBytes  3.60 Mbits/sec                  
+[  5]   8.00-9.00   sec   427 KBytes  3.50 Mbits/sec                  
+[  5]   9.00-10.00  sec   605 KBytes  4.96 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.07  sec  5.78 MBytes  4.81 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  3.89 MBytes  3.26 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.0.11.20, port 5201
+Reverse mode, remote host 10.0.11.20 is sending
+[  5] local 10.0.5.21 port 33180 connected to 10.0.11.20 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  1.15 MBytes  9.61 Mbits/sec                  
+[  5]   1.00-2.00   sec   796 KBytes  6.52 Mbits/sec                  
+[  5]   2.00-3.00   sec   776 KBytes  6.36 Mbits/sec                  
+[  5]   3.00-4.00   sec   827 KBytes  6.78 Mbits/sec                  
+[  5]   4.00-5.00   sec   769 KBytes  6.30 Mbits/sec                  
+[  5]   5.00-6.00   sec   807 KBytes  6.61 Mbits/sec                  
+[  5]   6.00-7.00   sec   826 KBytes  6.76 Mbits/sec                  
+[  5]   7.00-8.00   sec   742 KBytes  6.08 Mbits/sec                  
+[  5]   8.00-9.00   sec   697 KBytes  5.71 Mbits/sec                  
+[  5]   9.00-10.00  sec   813 KBytes  6.66 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.05  sec  10.5 MBytes  8.76 Mbits/sec    0             sender
+[  5]   0.00-10.00  sec  8.04 MBytes  6.74 Mbits/sec                  receiver
+
+iperf Done.
