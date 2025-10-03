@@ -1,0 +1,45 @@
+PING 10.0.12.20 (10.0.12.20) 56(84) bytes of data.
+64 bytes from 10.0.12.20: icmp_seq=1 ttl=60 time=254 ms
+64 bytes from 10.0.12.20: icmp_seq=2 ttl=60 time=310 ms
+64 bytes from 10.0.12.20: icmp_seq=3 ttl=60 time=362 ms
+64 bytes from 10.0.12.20: icmp_seq=4 ttl=60 time=414 ms
+64 bytes from 10.0.12.20: icmp_seq=5 ttl=60 time=499 ms
+64 bytes from 10.0.12.20: icmp_seq=6 ttl=60 time=665 ms
+64 bytes from 10.0.12.20: icmp_seq=7 ttl=60 time=874 ms
+64 bytes from 10.0.12.20: icmp_seq=8 ttl=60 time=1139 ms
+64 bytes from 10.0.12.20: icmp_seq=9 ttl=60 time=1464 ms
+64 bytes from 10.0.12.20: icmp_seq=10 ttl=60 time=1829 ms
+
+--- 10.0.12.20 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9008ms
+rtt min/avg/max/mdev = 253.765/781.010/1828.607/510.194 ms, pipe 2
+PING 10.0.12.20 (10.0.12.20) 56(84) bytes of data.
+64 bytes from 10.0.12.20: icmp_seq=1 ttl=60 time=2415 ms
+64 bytes from 10.0.12.20: icmp_seq=2 ttl=60 time=2379 ms
+64 bytes from 10.0.12.20: icmp_seq=3 ttl=60 time=2062 ms
+64 bytes from 10.0.12.20: icmp_seq=4 ttl=60 time=808 ms
+64 bytes from 10.0.12.20: icmp_seq=5 ttl=60 time=1049 ms
+64 bytes from 10.0.12.20: icmp_seq=6 ttl=60 time=2413 ms
+64 bytes from 10.0.12.20: icmp_seq=7 ttl=60 time=2408 ms
+64 bytes from 10.0.12.20: icmp_seq=8 ttl=60 time=2088 ms
+64 bytes from 10.0.12.20: icmp_seq=9 ttl=60 time=1786 ms
+64 bytes from 10.0.12.20: icmp_seq=10 ttl=60 time=1813 ms
+
+--- 10.0.12.20 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9040ms
+rtt min/avg/max/mdev = 808.304/1922.044/2415.235/548.457 ms, pipe 3
+PING 10.0.12.20 (10.0.12.20) 56(84) bytes of data.
+64 bytes from 10.0.12.20: icmp_seq=1 ttl=60 time=1907 ms
+64 bytes from 10.0.12.20: icmp_seq=2 ttl=60 time=1989 ms
+64 bytes from 10.0.12.20: icmp_seq=3 ttl=60 time=2056 ms
+64 bytes from 10.0.12.20: icmp_seq=4 ttl=60 time=2110 ms
+64 bytes from 10.0.12.20: icmp_seq=5 ttl=60 time=2138 ms
+64 bytes from 10.0.12.20: icmp_seq=6 ttl=60 time=2160 ms
+64 bytes from 10.0.12.20: icmp_seq=7 ttl=60 time=2177 ms
+64 bytes from 10.0.12.20: icmp_seq=8 ttl=60 time=2187 ms
+64 bytes from 10.0.12.20: icmp_seq=9 ttl=60 time=2197 ms
+64 bytes from 10.0.12.20: icmp_seq=10 ttl=60 time=2218 ms
+
+--- 10.0.12.20 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9062ms
+rtt min/avg/max/mdev = 1907.178/2113.849/2217.627/95.662 ms, pipe 3
